@@ -6,7 +6,7 @@ package javaapplication16;
 
 /**
  *
- * @author USER
+ * @author zaid
  */
 public class PlaylistTrack extends Track
 {
